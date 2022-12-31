@@ -1,0 +1,1561 @@
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\1. DSI - Luiz e Quiteria (Segunda)\08 - Agosto\22-08-2022\Aula Teams\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Aula Teams\Aula API\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\C#\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\C#\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\05-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\RpgApi.exe
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Humanizer.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\12-09-2022\Program\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Program\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\C#\Program\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\19-09-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+D:\2DS\Iago_Jhonatas\DS\09 - SETEMBRO\26-09-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\Atividade Pratica\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\03-10-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\publish\web.config
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\appsettings.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\RpgApi.exe
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\RpgApi.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Humanizer.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+D:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\10 - Outubro\Recesso\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\17-10-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\C#\Aula 17-10-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Desafios C#\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+D:\2DS\Iago_Jhonatas\DS\10 - OUTUBRO\24-10-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\appsettings.json
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\RpgApi.exe
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\RpgApi.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Humanizer.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+H:\Arquivos\Estudos\ETEC\DS2\1. DSI - Luiz e Quiteria (Segunda)\11 - Novembro\07-11-2022\Aula\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\28-11-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\C#\05-12-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\05-12-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Estudar C#\12-12-2022\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\publish\web.config
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\RpgApi.exe
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\RpgApi.deps.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\RpgApi.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.csproj.CopyComplete
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.pdb
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
