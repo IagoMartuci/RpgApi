@@ -643,3 +643,144 @@ C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\release\net6.0\refin
 C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\release\net6.0\RpgApi.pdb
 C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\release\net6.0\RpgApi.genruntimeconfig.cache
 C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgApi\obj\release\net6.0\ref\RpgApi.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\appsettings.Development.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\appsettings.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\RpgApi.exe
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\RpgApi.deps.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\RpgApi.runtimeconfig.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\RpgApi.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\RpgApi.pdb
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Humanizer.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.Data.SqlClient.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.Identity.Client.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.OpenApi.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Newtonsoft.Json.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Newtonsoft.Json.Bson.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\System.Drawing.Common.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\System.Runtime.Caching.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\System.Security.Permissions.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\System.Windows.Extensions.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.AssemblyInfo.cs
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\staticwebassets.build.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\staticwebassets.development.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.csproj.CopyComplete
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\refint\RpgApi.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.pdb
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\RpgApi.genruntimeconfig.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgApi\obj\release\net6.0\ref\RpgApi.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\appsettings.Development.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\appsettings.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\RpgApi.exe
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\RpgApi.deps.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\RpgApi.runtimeconfig.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\RpgApi.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\RpgApi.pdb
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Humanizer.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.Data.SqlClient.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.Identity.Client.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.OpenApi.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Newtonsoft.Json.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Newtonsoft.Json.Bson.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\System.Drawing.Common.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\System.Runtime.Caching.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\System.Security.Permissions.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\System.Windows.Extensions.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.csproj.AssemblyReference.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.AssemblyInfoInputs.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.AssemblyInfo.cs
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\staticwebassets\msbuild.build.RpgApi.props
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\staticwebassets.pack.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\staticwebassets.build.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\staticwebassets.development.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\scopedcss\bundle\RpgApi.styles.css
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.csproj.CopyComplete
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\refint\RpgApi.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.pdb
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\RpgApi.genruntimeconfig.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\release\net6.0\ref\RpgApi.dll

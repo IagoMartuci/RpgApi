@@ -5,19 +5,52 @@ using Microsoft.EntityFrameworkCore;
 using RpgApi.Models;
 using RpgApi.Utils;
 using System.Collections.Generic;
-
+using System.Security.Claims;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using System.IdentityModel.Tokens.Jwt;
+using Microsoft.AspNetCore.Authorization;
 
 namespace RpgApi.Controllers
 {
+    [Authorize] //Acessa a controller somente após validação do token
     [ApiController]
     [Route("[Controller]")]
     public class UsuariosController : ControllerBase
     {
         private readonly DataContext _context;
-        public UsuariosController(DataContext context)
+        private readonly IConfiguration _configuration;
+        public UsuariosController(DataContext context, IConfiguration configuration)
         {
             _context = context;
+            _configuration = configuration;
         }
+
+        private string CriarToken(Usuario usuario)
+        {
+            var claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.NameIdentifier, usuario.Id.ToString()),
+                new Claim(ClaimTypes.Name, usuario.UserName),
+                new Claim(ClaimTypes.Role, usuario.Perfil)
+            };
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration.GetSection("ConfiguracaoToken:Chave").Value));
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
+
+            var tokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = new ClaimsIdentity(claims),
+                Expires = DateTime.Now.AddDays(1),
+                SigningCredentials = creds
+            };
+
+            var tokenHandler = new JwtSecurityTokenHandler();
+            SecurityToken token = tokenHandler.CreateToken(tokenDescriptor);
+
+            return tokenHandler.WriteToken(token);
+        }
+
         public async Task<bool> UsuarioExistente(string userName)
         {
             if (await _context.Usuarios.AnyAsync(x => x.UserName.ToLower() == userName.ToLower()))
@@ -27,6 +60,7 @@ namespace RpgApi.Controllers
             return false;
         }
 
+        [AllowAnonymous] //Permite acessar o método seguinte sem validação do token
         [HttpPost("Registrar")]
         public async Task<IActionResult> RegistrarUsuario(Usuario user)
         {
@@ -53,6 +87,7 @@ namespace RpgApi.Controllers
 
         public DateTime PegaHoraBrasilia() => TimeZoneInfo.ConvertTime(DateTime.Now, TimeZoneInfo.FindSystemTimeZoneById("E. South America Standard Time"));
 
+        [AllowAnonymous]
         [HttpPost("Autenticar")]
         public async Task<IActionResult> AutenticarUsuario(Usuario credenciais)
         {
@@ -61,7 +96,7 @@ namespace RpgApi.Controllers
                 Usuario usuario = await _context.Usuarios
                     .FirstOrDefaultAsync(x => x.UserName.ToLower().Equals(credenciais.UserName.ToLower()));
 
-                if (usuario == null)
+                if (usuario is null)
                 {
                     throw new System.Exception("Usuário não encontrado");
                 }
@@ -75,7 +110,12 @@ namespace RpgApi.Controllers
                     usuario.DataAcesso = PegaHoraBrasilia();
                     _context.Usuarios.Update(usuario);
                     await _context.SaveChangesAsync(); //Confirma a alteração no banco
-                    return Ok(usuario.Id);
+
+                    usuario.PasswordHash = null; //Null para que a senha não transite pelo JSON
+                    usuario.PasswordSalt = null; //Null para que a senha não transite pelo JSON
+                    usuario.Token = CriarToken(usuario); 
+                    return Ok(usuario); //Retorna o obejto usuario inteiro, e não somente o Id como anteriormente
+                    //return Ok(usuario.Id);
                 }
             }
             catch (System.Exception ex)

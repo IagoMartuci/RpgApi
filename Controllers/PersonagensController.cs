@@ -6,20 +6,62 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using RpgApi.Models.Enuns;
+using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
+using System.Linq;
 
 namespace RpgApi.Controllers
 {
+    [Authorize(Roles = "Jogador, Admin")] // Roles são os papeis que o usuário terá, neste caso irá permitir que tanto o admin quanto o jogador acessem a controller.
     [ApiController]
     [Route("[Controller]")] //Abstrai a necessidade de colocar a palavra Controller no endereço http.
     public class PersonagensController : ControllerBase
     {
         //Programaçao de toda a classe ficara aqui abaixo:
         private readonly DataContext _context; //Declaração do atributo
+        private readonly IConfiguration _configuration;
+        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public PersonagensController(DataContext context)
+        public PersonagensController(DataContext context, IConfiguration configuration, IHttpContextAccessor httpContextAccessor)
         {
             //Inicialização do atributo a partir de um parametro
             _context = context; //Injeção de dependencia, o que é?
+            _configuration = configuration;
+            _httpContextAccessor = httpContextAccessor;
+        }
+
+        private int ObterUsuarioId()
+        {
+            return int.Parse(_httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier));
+        }
+
+        private string ObterPerfilUsuario()
+        {
+            return _httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.Role);
+        }
+
+        [HttpGet("GetByPerfil")]
+        public async Task<IActionResult> GetByPerfilAsync()
+        {
+            try
+            {
+                var lista = new List<Personagem>();
+
+                if (ObterPerfilUsuario() == "Admin")
+                {
+                    lista = await _context.Personagens.ToListAsync();
+                }
+                else
+                {
+                    lista = await _context.Personagens
+                        .Where(p => p.Usuario.Id == ObterUsuarioId()).ToListAsync();
+                }
+                return Ok(lista);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpGet("{id}")]
@@ -90,10 +132,11 @@ namespace RpgApi.Controllers
                          novoPersonagem.Classe != ClasseEnum.Mago &&
                          novoPersonagem.Classe != ClasseEnum.Clerigo)
                 {
-                    throw new Exception("O personagem deve conter uma Classe");
+                    throw new Exception("O personagem deve possuirr uma Classe");
                 }
                 else
                 {
+                    novoPersonagem.Usuario = _context.Usuarios.FirstOrDefault(uBusca => uBusca.Id == ObterUsuarioId());
                     await _context.Personagens.AddAsync(novoPersonagem);
                     await _context.SaveChangesAsync();
                     return Ok(novoPersonagem.Id);
@@ -110,12 +153,12 @@ namespace RpgApi.Controllers
         {
             try
             {
-                List<Personagem> listaPersonagens = await _context.Personagens.ToListAsync();
+                /*List<Personagem> listaPersonagens = await _context.Personagens.ToListAsync();
 
                 if (listaPersonagens.Exists(pBusca => pBusca.Nome == editPersonagem.Nome && pBusca.Id != editPersonagem.Id))
                 {
-                    throw new Exception("Já existe um personagem com este nome!");
-                }
+                    throw new Exception("Já existe um personagem com este nome");
+                }*/
                 if (editPersonagem.PontosVida != 100)
                 {
                     throw new Exception("Pontos de Vida deve ser 100");
@@ -128,9 +171,10 @@ namespace RpgApi.Controllers
                     editPersonagem.Classe != ClasseEnum.Mago &&
                     editPersonagem.Classe != ClasseEnum.Clerigo)
                 {
-                    throw new Exception("O personagem deve conter uma Classe");
+                    throw new Exception("O personagem deve possuir uma Classe");
                 }
-
+                
+                editPersonagem.Usuario = _context.Usuarios.FirstOrDefault(uBusca => uBusca.Id == ObterUsuarioId());
                 _context.Personagens.Update(editPersonagem);
                 int linhasAfetadas = await _context.SaveChangesAsync();
                 return Ok(linhasAfetadas);
@@ -161,7 +205,7 @@ namespace RpgApi.Controllers
             }
         }
 
-        [HttpGet("PersonagemRandom")] //Adicional
+        [HttpGet("PersonagemRandom")] //Método adicional
         public async Task<IActionResult> Sorteio()
         {
             List<Personagem> personagens =
@@ -191,7 +235,7 @@ namespace RpgApi.Controllers
 
                 bool atualizou = await TryUpdateModelAsync<Personagem>(pEncontrado, "p",
                 pAtualizar => pAtualizar.PontosVida);
-                
+
                 // If vai detectar e atualizar apenas as colunas que foram alteradas.
                 if (atualizou)
                     linhasAfetadas = await _context.SaveChangesAsync();
@@ -313,6 +357,23 @@ namespace RpgApi.Controllers
                 return Ok(lista);
             }
             catch (System.Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet("GetByUser")]
+        public async Task<IActionResult> GetByUserAsync()
+        {
+            try
+            {
+                int id = int.Parse(User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier).Value);
+
+                List<Personagem> lista = await _context.Personagens.Where(u => u.Usuario.Id == id).ToListAsync();
+
+                return Ok(lista);
+            }
+            catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }

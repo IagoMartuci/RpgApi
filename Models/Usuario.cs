@@ -21,5 +21,8 @@ namespace RpgApi.Models
         public List<Personagem> Personagens { get; set; } // Lista de Personagens definirá que um Usuário poderá possuir N personagens
         public string Perfil { get; set; }
         public string Email { get; set; }
+
+        [NotMapped] // Não mapeado no Banco de Dados
+        public string Token { get; set; } // Não mapeado no Banco de Dados
     }
 }
