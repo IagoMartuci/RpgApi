@@ -1856,8 +1856,3 @@ C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\Debug\net6.0\refint\RpgApi.dll
 C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\Debug\net6.0\RpgApi.pdb
 C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\Debug\net6.0\RpgApi.genruntimeconfig.cache
 C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\obj\Debug\net6.0\ref\RpgApi.dll
-C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\Debug\net6.0\publish\appsettings.Development.json
-C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\Debug\net6.0\publish\web.config
-C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\Debug\net6.0\publish\appsettings.json
-C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\Debug\net6.0\publish\RpgApi.deps.json
-C:\ADS\01.ETEC\3DS\PMII\RPG\RpgApi\bin\Debug\net6.0\publish\RpgApi.runtimeconfig.json
