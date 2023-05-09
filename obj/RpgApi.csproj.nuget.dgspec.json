@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ADS\\01.ETEC\\3DS\\PMII\\RPG\\RpgApi\\RpgApi.csproj": {}
+    "D:\\3DS\\IagoMartuci\\PMII\\052023\\08052023\\RpgApi\\RpgApi.csproj": {}
   },
   "projects": {
-    "C:\\ADS\\01.ETEC\\3DS\\PMII\\RPG\\RpgApi\\RpgApi.csproj": {
+    "D:\\3DS\\IagoMartuci\\PMII\\052023\\08052023\\RpgApi\\RpgApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ADS\\01.ETEC\\3DS\\PMII\\RPG\\RpgApi\\RpgApi.csproj",
+        "projectUniqueName": "D:\\3DS\\IagoMartuci\\PMII\\052023\\08052023\\RpgApi\\RpgApi.csproj",
         "projectName": "RpgApi",
-        "projectPath": "C:\\ADS\\01.ETEC\\3DS\\PMII\\RPG\\RpgApi\\RpgApi.csproj",
-        "packagesPath": "C:\\Users\\iagom\\.nuget\\packages\\",
-        "outputPath": "C:\\ADS\\01.ETEC\\3DS\\PMII\\RPG\\RpgApi\\obj\\",
+        "projectPath": "D:\\3DS\\IagoMartuci\\PMII\\052023\\08052023\\RpgApi\\RpgApi.csproj",
+        "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
+        "outputPath": "D:\\3DS\\IagoMartuci\\PMII\\052023\\08052023\\RpgApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\iagom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -95,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

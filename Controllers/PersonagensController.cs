@@ -120,10 +120,6 @@ namespace RpgApi.Controllers
                 {
                     throw new Exception("Nome de personagem já existe");
                 }
-                /*else if (novoPersonagem.PontosVida > 100)
-                {
-                    throw new Exception("Pontos de Vida não pode ser maior que 100");
-                }*/
                 else if (novoPersonagem.PontosVida != 100)
                 {
                     throw new Exception("Pontos de Vida deve ser 100");
@@ -153,6 +149,7 @@ namespace RpgApi.Controllers
         {
             try
             {
+                // Essa validação já está sendo feita pela MVC
                 /*List<Personagem> listaPersonagens = await _context.Personagens.ToListAsync();
 
                 if (listaPersonagens.Exists(pBusca => pBusca.Nome == editPersonagem.Nome && pBusca.Id != editPersonagem.Id))
